@@ -1,3 +1,6 @@
+RLAG is the source code of the method RLAG that was proposed in the paper entitled “Identifying and ranking potential cancer drivers using representation
+learning on attributed network”
+
 Run the RLAG should under the environment of python2.7 and R >=2.7
 
 1.invoke the main.py under the environment of python2.7 with loading the two graph of structural graph(mutated gene-gene network) and bipartite graph(mutated gene-attribute network) from the offered input data file.
